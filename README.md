@@ -316,14 +316,6 @@ after model training.
 
 ---
 
-## 👩‍💻 Author
-
-**Archana Vishwe**
-
-AI & Data Science Student
-
----
-
 ## ⭐ Project Highlights
 
 > 🚘 Machine Learning based car price prediction
@@ -334,7 +326,3 @@ AI & Data Science Student
 > 🎨 Custom professional UI
 
 ---
-
-## 📄 License
-
-This project is created for **educational and academic purposes**.
